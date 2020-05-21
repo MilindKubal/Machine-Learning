@@ -1,6 +1,6 @@
 **Problem Statement:** 
 
-The project aims to develop a predictive model that can classif risk levels using data points in the existing life insurance assessment.
+The project aims to develop a predictive model that can classify risk levels using data points in the existing life insurance assessment.
 
  
 
